@@ -558,4 +558,19 @@ footer p {
   }
 }
 
+@media only screen and (max-width: 400px) {
+  #LogoTag {
+    left: 10vw;
+    position: absolute;
+    top: -70px;
+    width: 75vw;
+  }
 
+  #Galletita{
+    top: 1440px;
+  }
+
+  .Lapiz{
+    top: -100px !important;
+  }
+}
